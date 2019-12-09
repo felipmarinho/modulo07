@@ -1,0 +1,66 @@
+{
+	"stock": [
+	{
+	"id": 1,
+	"amount": 3
+	},
+	{
+	"id": 2,
+	"amount": 5
+	},
+	{
+	"id": 3,
+	"amount": 2
+	},
+	{
+	"id": 4,
+	"amount": 1
+	},
+	{
+	"id": 5,
+	"amount": 5
+	},
+	{
+	"id": 6,
+	"amount": 10
+	}
+	],
+	"products": [
+	{
+	"id": 1,
+	"title": "Tênis nike free rn flyknit 2018 Preto",
+	"price": 179.9,
+	"image": "https://modape.com.br/media/catalog/product/cache/1/image/500x500/9df78eab33525d08d6e5fb8d27136e95/9/4/942838-001.jpg"
+	},
+	{
+	"id": 2,
+	"title": "Tênis nike free rn flyknit 2018",
+	"price": 139.9,
+	"image": "https://http2.mlstatic.com/tnis-nike-free-rn-flyknit-2018-original-D_NQ_NP_609798-MLB30088101460_042019-F.jpg"
+	},
+	{
+	"id": 3,
+	"title": "Tênis nike free rn flyknit 2018 Azul",
+	"price": 219.9,
+	"image": "https://modape.com.br/media/catalog/product/cache/1/image/500x500/9df78eab33525d08d6e5fb8d27136e95/d/s/dscn5821.jpg"
+	},
+	{
+	"id": 5,
+	"title": "Tênis nike free rn flyknit 2018",
+	"price": 139.9,
+	"image": "https://http2.mlstatic.com/tnis-nike-free-rn-flyknit-2018-original-D_NQ_NP_609798-MLB30088101460_042019-F.jpg"
+	},
+	{
+	"id": 6,
+	"title": "Tênis nike free rn flyknit 2018 Azul",
+	"price": 219.9,
+	"image": "https://modape.com.br/media/catalog/product/cache/1/image/500x500/9df78eab33525d08d6e5fb8d27136e95/d/s/dscn5821.jpg"
+	},
+	{
+	"id": 4,
+	"title": "Tênis nike free rn flyknit 2018 Preto",
+	"price": 179.9,
+	"image": "https://modape.com.br/media/catalog/product/cache/1/image/500x500/9df78eab33525d08d6e5fb8d27136e95/9/4/942838-001.jpg"
+	}
+	]
+	}
